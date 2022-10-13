@@ -1,12 +1,18 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ahmed sameh</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="" target="_blank">resume</a> for more</h4>
-</div>
 
-### Hello! I'm Ahmed Sameh a Full Stack Web Developer ....Asp.Net Core with Angular+2
- from Egypt .
 
-### Portfolio: https://brdhanani.github.io
+### Hi there 👋
+
+<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Full Stack+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+<h3> Here's some fun facts about me: </h3>
+
+### Portfolio: https://prtfolio-skill.vercel.app/
 
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
