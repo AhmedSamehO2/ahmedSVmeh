@@ -1,5 +1,8 @@
 ### Hi 👋 i'm Ahmed sameh
 
+💬 Ask me about HTML, CSS, SCSS, Bootstrap, JavaScript, Angular , C# , Asp.Net , sql server
+
+
 <!--
 **ahmedSVmeh/ahmedSVmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
