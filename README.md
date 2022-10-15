@@ -46,7 +46,7 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
- <a style="color:#5C2D91 ;" href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/visualstudio.svg" height="30" width="40" /></a>
+ <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/visualstudio.svg" color="#5C2D91" height="30" width="40" /></a>
  
 
 
